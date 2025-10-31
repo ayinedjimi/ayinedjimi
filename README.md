@@ -25,7 +25,7 @@ Spécialisé dans les environnements Microsoft (Active Directory, Microsoft 365,
 
 <div align="center">
 
-### 🎖️ **+10 ans d'expérience** | **🏢 +50 audits réalisés** | **📚 +100 articles publiés**
+### 🎖️ **+20 ans d'expérience** | **🏢 +50 audits réalisés** | **📚 +100 articles publiés**
 
 </div>
 
