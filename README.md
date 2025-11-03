@@ -1,5 +1,8 @@
 # 🛡️ Ayi NEDJIMI - Expert Cybersécurité & Intelligence Artificielle
 
+![Stars](https://img.shields.io/github/stars/ayinedjimi/ayinedjimi?style=social) ![Forks](https://img.shields.io/github/forks/ayinedjimi/ayinedjimi?style=social) ![Issues](https://img.shields.io/github/issues/ayinedjimi/ayinedjimi)
+
+
 <div align="center">
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Expert-red?style=for-the-badge&logo=security&logoColor=white)
@@ -339,3 +342,31 @@ Formations sur-mesure pour vos équipes techniques :
 *Fait avec ❤️ et expertise technique*
 
 </div>
+
+
+## 🚀 Installation
+
+```bash
+# Cloner le repository
+git clone https://github.com/VOTRE_USERNAME/ayinedjimi.git
+cd ayinedjimi
+
+# Suivez les instructions spécifiques au projet
+```
+
+
+## 💻 Utilisation
+
+### Exemple basique
+Consultez la documentation du projet pour des exemples d'utilisation détaillés.
+
+### Lancement
+```bash
+# Commande d'exécution
+# À adapter selon votre projet
+```
+
+
+## 🤝 Contributing
+
+Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) first.
