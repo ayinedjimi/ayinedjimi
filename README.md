@@ -1,372 +1,292 @@
-# 🛡️ Ayi NEDJIMI - Expert Cybersécurité & Intelligence Artificielle
-
-![Stars](https://img.shields.io/github/stars/ayinedjimi/ayinedjimi?style=social) ![Forks](https://img.shields.io/github/forks/ayinedjimi/ayinedjimi?style=social) ![Issues](https://img.shields.io/github/issues/ayinedjimi/ayinedjimi)
-
-
 <div align="center">
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Expert-red?style=for-the-badge&logo=security&logoColor=white)
-![AI Development](https://img.shields.io/badge/AI-Development-blue?style=for-the-badge&logo=openai&logoColor=white)
-![Penetration Testing](https://img.shields.io/badge/Pentest-Specialist-orange?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Cloud Security](https://img.shields.io/badge/Cloud-Security-green?style=for-the-badge&logo=icloud&logoColor=white)
+# Ayi NEDJIMI
 
-### 🎯 *Sécuriser vos infrastructures critiques • Développer l'IA de demain*
+### Cybersecurity Expert & AI Engineer | OSCP Certified
 
-[![Website](https://img.shields.io/badge/🌐_Site_Web-ayinedjimi--consultants.fr-red?style=flat-square)](https://www.ayinedjimi-consultants.fr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayi_NEDJIMI-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ayi-nedjimi)
-[![Twitter](https://img.shields.io/badge/Twitter-@AyiNEDJIMI-1DA1F2?style=flat-square&logo=twitter)](https://x.com/AyiNEDJIMI)
+*Sécuriser les infrastructures critiques. Construire l'IA de demain.*
+
+[![Website](https://img.shields.io/badge/Website-ayinedjimi--consultants.fr-0A0A0A?style=for-the-badge&logo=firefox&logoColor=white)](https://ayinedjimi-consultants.fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayi_NEDJIMI-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayi-nedjimi)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-AYI--NEDJIMI-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/AYI-NEDJIMI)
+[![GitHub followers](https://img.shields.io/github/followers/ayinedjimi?style=for-the-badge&logo=github&logoColor=white&label=Followers)](https://github.com/ayinedjimi)
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Expert-DC143C?style=flat-square&logo=hackthebox&logoColor=white)
+![OSCP](https://img.shields.io/badge/OSCP-Certified-FF6F00?style=flat-square&logo=offensive-security&logoColor=white)
+![AI Engineer](https://img.shields.io/badge/AI-Engineer-7B68EE?style=flat-square&logo=pytorch&logoColor=white)
+![C++23](https://img.shields.io/badge/C++23-Developer-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-Developer-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
 </div>
 
 ---
 
-## 👨‍💻 À Propos
+## About Me
 
-Consultant senior en **cybersécurité offensive** et **développement IA**, j'accompagne les entreprises dans la sécurisation de leurs infrastructures critiques et le déploiement de solutions d'intelligence artificielle robustes.
+```yaml
+name:          Ayi NEDJIMI
+role:          Senior Cybersecurity Consultant & AI Engineer
+certification: OSCP (Offensive Security Certified Professional)
+location:      France
+company:       Ayi NEDJIMI Consultants
+website:       https://ayinedjimi-consultants.fr
+```
 
-Spécialisé dans les environnements Microsoft (Active Directory, Microsoft 365, Azure), les infrastructures cloud (AWS, Kubernetes) et le développement de solutions IA (RAG, embeddings, bases vectorielles), j'apporte une expertise technique pointue combinant sécurité et innovation.
+Expert in **offensive and defensive cybersecurity** with deep specialization in **Active Directory security**, **AI/ML applied to security**, and **high-performance C++/CUDA development**. I build tools that sit at the intersection of cybersecurity, artificial intelligence, and systems programming.
+
+- **20+ years** securing critical infrastructures, **50+ audits** completed
+- **OSCP certified** — hands-on offensive security expertise
+- Specialized in Active Directory, Microsoft 365, Azure, AWS & Kubernetes
+- Building AI-powered security tools and fine-tuning domain-specific LLMs
+- Publishing **100+ technical articles** on cybersecurity and AI
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-### 🎖️ **+20 ans d'expérience** | **🏢 +50 audits réalisés** | **📚 +100 articles publiés**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayinedjimi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayinedjimi&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayinedjimi&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🔐 Domaines d'Expertise
+## Open Source Arsenal
+
+> A growing collection of **100+ security and AI tools** I develop and maintain.
+> Organized by domain, each tool is built to solve real-world problems I encounter during audits, research, and production deployments.
+
+---
+
+### 🛡️ AI Cybersecurity Tools
+
+AI-powered tools that augment security operations — from threat intelligence to automated compliance.
+
+| Tool | Description |
+|------|-------------|
+| **ThreatIntel-GPT** | AI-powered threat intelligence analysis and correlation |
+| **LogParser-AI** | Intelligent log analysis with ML-driven anomaly detection |
+| **ComplianceBot** | Automated compliance checking against ISO 27001, RGPD, NIS2 |
+| **VulnScanner-LLM** | LLM-powered vulnerability scanning and remediation advice |
+| **PhishingDetector-AI** | ML-based phishing email and URL detection engine |
+| **PolicyGenerator-AI** | AI-driven security policy generation from compliance frameworks |
+| **IncidentSummarizer** | Automated incident report summarization for SOC teams |
+| **CVE-Explorer-AI** | AI-assisted CVE exploration, impact analysis and prioritization |
+| **SOC-Assistant** | AI assistant for SOC analysts — triage, enrichment, response |
+| **SecureCodeReview-AI** | AI-powered secure code review for OWASP Top 10 vulnerabilities |
+
+---
+
+### 🔒 Active Directory Security Audit
+
+Purpose-built tools for deep auditing and attack detection in Active Directory environments.
+
+| Tool | Description |
+|------|-------------|
+| **LDAPRecon-AI** | AI-powered LDAP enumeration and security audit |
+| **ACLAudit-AI** | Active Directory ACL analysis — dangerous permissions detection |
+| **KerberosAudit-AI** | Kerberos configuration audit and weakness identification |
+| **GoldenTicket-Detector** | Golden Ticket and Silver Ticket attack detection |
+| **LateralMovement-Detector** | Lateral movement pattern detection across the domain |
+| **RemoteExec-Auditor** | Remote execution audit — PsExec, WMI, WinRM, DCOM |
+| **PrivEscAudit-AD** | Privilege escalation path audit in Active Directory |
+| **DelegationAudit-AD** | Kerberos delegation audit — unconstrained, constrained, RBCD |
+| **DCSyncAudit-AD** | DCSync rights audit and replication permission analysis |
+| **CredentialAudit-AD** | Credential hygiene audit — password age, reuse, service accounts |
+
+---
+
+### 🚀 CUDA/GPU & MLOps Tools
+
+High-performance GPU-accelerated tools and MLOps infrastructure for production AI pipelines.
+
+| Tool | Description |
+|------|-------------|
+| **CUDAEmbeddings** | GPU-accelerated embedding server with batched inference |
+| **GPUQuantizer** | Model quantization with CUDA — GPTQ, AWQ, GGUF |
+| **VRAMSwapper** | Intelligent VRAM/RAM offloading with multi-stream CUDA transfers |
+| **ADBloodHound-AI** | Active Directory graph analysis with AI-driven path finding |
+| **YaraGen-AI** | AI-powered YARA rule generation from malware samples |
+| **KQLHunter** | KQL query generation for Microsoft Sentinel threat hunting |
+| **ModelBench** | LLM benchmarking suite — latency, throughput, accuracy |
+| **DatasetForge** | Automated dataset creation and augmentation pipeline |
+| **HashCracker-GPU** | GPU-accelerated hash analysis and password audit tool |
+| **PacketSniffer-AI** | ML-driven network traffic analysis and threat detection |
+
+---
+
+### ⚡ C++ Security Tools — 71+ Native Tools
+
+A comprehensive suite of high-performance C++ security tools covering the full audit spectrum:
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🛡️ Cybersécurité Offensive
-
-- **Audit Active Directory** 🎯
-  - Détection de vulnérabilités critiques
-  - Tests d'intrusion ciblés
-  - Analyse de chemins d'attaque
-
-- **Pentest Infrastructure** 🔍
-  - Cloud (AWS, Azure, GCP)
-  - Kubernetes & Conteneurs
-  - Réseaux & Systèmes
-
-- **Forensics & Incident Response** 🔬
-  - Analyse mémoire (Volatility)
-  - Event Tracing for Windows (ETW)
-  - Investigation post-compromission
+**Active Directory Protocols**
+- Kerberos audit & exploitation
+- NTLM relay detection
+- SMB security analysis
+- LDAP enumeration & audit
+- RDP security testing
+- DNS poisoning detection
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🤖 Intelligence Artificielle
+**Windows Security**
+- Privilege escalation audit
+- Token manipulation detection
+- Registry analysis
+- Service permission audit
+- DLL injection detection
+- ETW trace analysis
 
-- **Développement RAG** 📖
-  - Retrieval-Augmented Generation
-  - Optimisation de chunking
-  - Bases vectorielles (Milvus, Qdrant)
+</td>
+<td width="33%" valign="top">
 
-- **Solutions IA Entreprise** 🏢
-  - Chatbots intelligents
-  - Automatisation de processus
-  - Analyse de données
-
-- **Sécurité des Modèles IA** 🔒
-  - Prompt injection defense
-  - Confidentialité des données
-  - Gouvernance IA
+**Network Protocols**
+- TCP/UDP packet analysis
+- TLS/SSL audit
+- ARP spoofing detection
+- DHCP security analysis
+- WMI audit tools
+- DCOM security analysis
 
 </td>
 </tr>
 </table>
 
----
-
-## 💼 Services Proposés
-
-### 🎯 Audits de Sécurité
-
-| Service | Description | Lien |
-|---------|-------------|------|
-| 🔴 **[Audit Active Directory](https://www.ayinedjimi-consultants.fr/index.html)** | Évaluation complète de la sécurité AD, détection de chemins d'attaque critiques | [En savoir plus](https://www.ayinedjimi-consultants.fr/index.html) |
-| ☁️ **[Audit Infrastructure Cloud](https://www.ayinedjimi-consultants.fr/audit-infrastructure.html)** | Sécurisation AWS, Azure, GCP - Configuration, IAM, réseau | [En savoir plus](https://www.ayinedjimi-consultants.fr/audit-infrastructure.html) |
-| 🐳 **[Audit Kubernetes](https://www.ayinedjimi-consultants.fr/audit-kubernetes.html)** | Analyse sécurité clusters K8s, RBAC, network policies | [En savoir plus](https://www.ayinedjimi-consultants.fr/audit-kubernetes.html) |
-| 🟠 **[Audit Microsoft 365](https://www.ayinedjimi-consultants.fr/audit-microsoft-365.html)** | Évaluation complète sécurité M365, Conditional Access, DLP | [En savoir plus](https://www.ayinedjimi-consultants.fr/audit-microsoft-365.html) |
-| 💚 **[Audit Virtualisation](https://www.ayinedjimi-consultants.fr/virtualisation.html)** | Sécurisation VMware, Hyper-V, infrastructures virtuelles | [En savoir plus](https://www.ayinedjimi-consultants.fr/virtualisation.html) |
-
-### 🔬 Services Avancés
-
-| Service | Description | Lien |
-|---------|-------------|------|
-| 🟣 **[Forensics](https://www.ayinedjimi-consultants.fr/forensics.html)** | Investigation numérique, analyse d'incidents, réponse aux compromissions | [En savoir plus](https://www.ayinedjimi-consultants.fr/forensics.html) |
-| 🔵 **[Développement IA](https://www.ayinedjimi-consultants.fr/ia-developpement.html)** | Solutions IA sur-mesure, RAG, chatbots, automatisation | [En savoir plus](https://www.ayinedjimi-consultants.fr/ia-developpement.html) |
-| 📚 **[Formations](https://www.ayinedjimi-consultants.fr/formations.html)** | Formation équipes techniques en cybersécurité et IA | [En savoir plus](https://www.ayinedjimi-consultants.fr/formations.html) |
+> All tools are built in **modern C++** (C++17/C++20/C++23) with a focus on performance, safety, and minimal dependencies.
 
 ---
 
-## 📖 Articles Techniques Récents
-
-### 🔴 Cybersécurité & Pentest
-
-- 🎯 **[OAuth 2.0 : Sécuriser vos APIs](https://www.ayinedjimi-consultants.fr/articles/techniques-hacking/oauth-security.html)**
-  *Guide complet sur les vulnérabilités OAuth et les best practices de sécurisation*
-
-- 🔐 **[Attaques par Relais NTLM](https://www.ayinedjimi-consultants.fr/articles/attaques-active-directory/ntlm-relay-attacks-guide.html)**
-  *Techniques d'attaque, détection et mitigation des relais NTLM en environnement Windows*
-
-- 🛡️ **[Sécurité Kubernetes en Production](https://www.ayinedjimi-consultants.fr/articles/attaques-active-directory/kubernetes-security-hardening-guide.html)**
-  *Hardening complet de clusters Kubernetes pour environnements critiques*
-
-- 🔬 **[Memory Forensics avec Volatility](https://www.ayinedjimi-consultants.fr/articles/forensics/memory-forensics-volatility-guide.html)**
-  *Analyse de dumps mémoire pour investigation d'incidents de sécurité*
-
-### 🤖 Intelligence Artificielle & RAG
-
-- 📚 **[Qu'est-ce qu'un Embedding en IA ?](https://www.ayinedjimi-consultants.fr/ia-quest-ce-qu-un-embedding.html)**
-  *Comprendre les embeddings et leur rôle dans les modèles de langage*
-
-- 🎯 **[RAG : Retrieval-Augmented Generation](https://www.ayinedjimi-consultants.fr/ia-rag-retrieval-augmented-generation.html)**
-  *Architecture et implémentation de systèmes RAG pour l'entreprise*
-
-- ✂️ **[Optimiser le Chunking de Documents](https://www.ayinedjimi-consultants.fr/ia-optimiser-chunking-documents.html)**
-  *Stratégies avancées de découpage de texte pour améliorer la qualité RAG*
-
-- 🗄️ **[Choisir sa Base Vectorielle](https://www.ayinedjimi-consultants.fr/ia-choisir-base-vectorielle.html)**
-  *Comparatif Milvus vs Qdrant vs Weaviate - Guide de sélection*
-
-- 🔒 **[Sécurité et Confidentialité des Embeddings](https://www.ayinedjimi-consultants.fr/ia-securite-confidentialite-embeddings.html)**
-  *Best practices pour protéger vos données dans les systèmes IA*
-
-### 🟠 Microsoft 365 & Cloud
-
-- 🔐 **[Sécuriser M365 avec Conditional Access](https://www.ayinedjimi-consultants.fr/securiser-acces-microsoft-365-conditional-access-mfa.html)**
-  *Guide complet de configuration Conditional Access et MFA*
-
-- 📊 **[API Microsoft Graph pour Audit](https://www.ayinedjimi-consultants.fr/exploiter-api-microsoft-graph-audit-monitoring.html)**
-  *Automatiser l'audit et le monitoring de Microsoft 365 via Graph API*
-
-- ⚙️ **[Automatiser l'Audit M365 avec PowerShell](https://www.ayinedjimi-consultants.fr/automatiser-audit-securite-microsoft-365-powershell-graph.html)**
-  *Scripts PowerShell pour audits de sécurité automatisés*
-
----
-
-## 📚 Livres Blancs & Ressources
-
-- 📘 **[Tiering Model Active Directory](https://www.ayinedjimi-consultants.fr/livres-blancs/tiering-model/)**
-  *Guide complet d'implémentation du modèle de ségrégation des privilèges*
-
-- 📗 **[50 Termes Essentiels de l'IA](https://www.ayinedjimi-consultants.fr/ia-glossaire-50-termes-essentiels.html)**
-  *Glossaire complet pour comprendre l'écosystème IA*
-
-- 📙 **[Tous les Articles](https://www.ayinedjimi-consultants.fr/tous-articles.html)**
-  *Accès à l'ensemble des publications techniques*
-
----
-
-## 🛠️ Stack Technique
-
-### Cybersécurité
-
-```text
-🔴 Pentest          → Kali Linux, Metasploit, BloodHound, Responder, Impacket
-🔵 Cloud Security   → AWS Security Hub, Azure Defender, CloudTrail, GuardDuty
-🟢 Forensics        → Volatility, Autopsy, Sleuth Kit, Velociraptor, ETW
-🟠 Active Directory → PowerView, Mimikatz, ADExplorer, PingCastle
-🟣 Kubernetes       → Kube-bench, Falco, Trivy, OPA, Istio
-```
-
-### Développement IA
-
-```text
-🤖 LLM & RAG        → LangChain, LlamaIndex, OpenAI API, Anthropic Claude
-📊 Embeddings       → Sentence-Transformers, OpenAI Embeddings, Cohere
-🗄️ Vector DBs       → Milvus, Qdrant, Weaviate, Pinecone, ChromaDB
-⚙️ ML Frameworks    → PyTorch, TensorFlow, Hugging Face Transformers
-🔧 DevOps IA        → Docker, Kubernetes, MLflow, Weights & Biases
-```
-
-### Langages & Outils
-
-```text
-💻 Langages         → Python, PowerShell, Bash, Go, JavaScript/TypeScript
-☁️ Cloud            → AWS, Azure, GCP
-🐳 Conteneurs       → Docker, Kubernetes, Helm
-📊 Data             → PostgreSQL, MongoDB, Redis, Elasticsearch
-🔧 DevOps           → Git, CI/CD (GitHub Actions, GitLab CI), Terraform
-```
-
----
-
-## 📰 Actualités Cybersécurité
-
-Retrouvez les dernières actualités en cybersécurité et IA sur la [page News](https://www.ayinedjimi-consultants.fr/news.html) :
-
-- 🚨 **[Failles ChatGPT macOS](https://www.ayinedjimi-consultants.fr/news/chatgpt-macos-security-flaws-2025-10.html)** - Vulnérabilités critiques découvertes
-- 🔧 **[Bug Microsoft localhost](https://www.ayinedjimi-consultants.fr/news/microsoft-localhost-bug-fix-2025-10.html)** - Correctif de sécurité
-- 🤖 **[Faille Microsoft 365 Copilot](https://www.ayinedjimi-consultants.fr/news/microsoft-365-copilot-flaw-2025-10.html)** - Exfiltration de données
-- 🛡️ **[Cisco AI Security Tool](https://www.ayinedjimi-consultants.fr/news/cisco-ai-security-tool-2025-10.html)** - Nouvelle solution de sécurité IA
-
----
-
-## 📊 GitHub Stats
+### 🧠 KVortex — Flagship Project
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyiNEDJIMI&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+[![KVortex](https://img.shields.io/badge/KVortex-VRAM_to_RAM_Offloader-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://github.com/ayinedjimi/kvortex)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyiNEDJIMI&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AyiNEDJIMI&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
+**KVortex** is a production-grade **C++23 VRAM-to-RAM KV-Cache offloader for vLLM**, enabling larger context windows and higher throughput on GPU-constrained hardware.
+
+- **Multi-stream CUDA transfers** — overlapped compute and data movement
+- **Lock-free concurrent queues** — zero-contention cache management
+- **Adaptive eviction policies** — LRU, LFU, and frequency-based strategies
+- **vLLM integration** — drop-in plugin for production inference servers
+- **Benchmarked** — measurable throughput gains on real-world LLM workloads
+
+```
+Architecture: CUDA C++23 | Lock-Free Queues | Multi-Stream Transfers | vLLM Plugin
+```
+
+---
+
+## 🤗 HuggingFace — Models & Datasets
+
+<div align="center">
+
+[![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-AYI--NEDJIMI-FFD21E?style=for-the-badge)](https://huggingface.co/AYI-NEDJIMI)
+
+**4 Fine-Tuned Models** · **50+ Datasets**
+
+</div>
+
+| Model | Description |
+|-------|-------------|
+| **CyberSec-Assistant-3B** | 3B parameter model fine-tuned for cybersecurity Q&A, incident analysis, and threat assessment |
+| **RGPD-Expert-1.5B** | Specialized in GDPR/RGPD compliance — data protection questions and regulatory guidance |
+| **ISO27001-Expert-1.5B** | Fine-tuned for ISO 27001 implementation, audit preparation, and control mapping |
+| **M365-Expert** | Microsoft 365 security configuration, Conditional Access, and administration assistant |
+
+> All models are trained on curated, domain-specific datasets built from my consulting experience and technical writing. Available on [HuggingFace](https://huggingface.co/AYI-NEDJIMI).
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**AI & ML Frameworks**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-FF6F00?style=for-the-badge&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+
+**Security & Infrastructure**
+
+![Kerberos](https://img.shields.io/badge/Kerberos-6C4675?style=for-the-badge&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![LDAP](https://img.shields.io/badge/LDAP-CC2927?style=for-the-badge&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+**Cloud & DevOps**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
 </div>
 
 ---
 
-## 🤝 Me Contacter
+## Latest Technical Articles
 
-<div align="center">
+### Cybersecurity & Pentest
+- [OAuth 2.0 : Sécuriser vos APIs](https://www.ayinedjimi-consultants.fr/articles/techniques-hacking/oauth-security.html)
+- [Attaques par Relais NTLM — Techniques, Détection et Mitigation](https://www.ayinedjimi-consultants.fr/articles/attaques-active-directory/ntlm-relay-attacks-guide.html)
+- [Sécurité Kubernetes en Production](https://www.ayinedjimi-consultants.fr/articles/attaques-active-directory/kubernetes-security-hardening-guide.html)
+- [Memory Forensics avec Volatility](https://www.ayinedjimi-consultants.fr/articles/forensics/memory-forensics-volatility-guide.html)
 
-### 💼 Prêt à sécuriser votre infrastructure ou déployer l'IA ?
+### AI & Machine Learning
+- [Qu'est-ce qu'un Embedding en IA ?](https://www.ayinedjimi-consultants.fr/ia-quest-ce-qu-un-embedding.html)
+- [RAG : Retrieval-Augmented Generation](https://www.ayinedjimi-consultants.fr/ia-rag-retrieval-augmented-generation.html)
+- [Optimiser le Chunking de Documents](https://www.ayinedjimi-consultants.fr/ia-optimiser-chunking-documents.html)
+- [Choisir sa Base Vectorielle — Milvus vs Qdrant vs Weaviate](https://www.ayinedjimi-consultants.fr/ia-choisir-base-vectorielle.html)
 
-[![Demander un Audit](https://img.shields.io/badge/📋_Demander_un_Audit-red?style=for-the-badge)](https://www.ayinedjimi-consultants.fr/index.html#contact)
-[![Obtenir un Devis](https://img.shields.io/badge/💰_Obtenir_un_Devis-blue?style=for-the-badge)](https://www.ayinedjimi-consultants.fr/index.html#contact)
-[![Planifier un Appel](https://img.shields.io/badge/📞_Planifier_un_Appel-green?style=for-the-badge)](https://www.ayinedjimi-consultants.fr/index.html#contact)
+> Browse all **100+ articles** at [ayinedjimi-consultants.fr/tous-articles.html](https://www.ayinedjimi-consultants.fr/tous-articles.html)
 
 ---
 
-### 📬 Coordonnées
+## Contact
 
-| Canal | Lien |
-|-------|------|
-| 🌐 **Site Web** | [ayinedjimi-consultants.fr](https://www.ayinedjimi-consultants.fr) |
-| 💼 **LinkedIn** | [linkedin.com/in/ayi-nedjimi](https://www.linkedin.com/in/ayi-nedjimi) |
-| 🐦 **Twitter/X** | [@AyiNEDJIMI](https://x.com/AyiNEDJIMI) |
-| 📧 **Email** | Via [formulaire de contact](https://www.ayinedjimi-consultants.fr/index.html#contact) |
+<div align="center">
+
+| | |
+|---|---|
+| 🌐 **Website** | [ayinedjimi-consultants.fr](https://ayinedjimi-consultants.fr) |
+| 💼 **LinkedIn** | [linkedin.com/in/ayi-nedjimi](https://linkedin.com/in/ayi-nedjimi) |
+| 🤗 **HuggingFace** | [huggingface.co/AYI-NEDJIMI](https://huggingface.co/AYI-NEDJIMI) |
+| 🐦 **X / Twitter** | [@AyiNEDJIMI](https://x.com/AyiNEDJIMI) |
 
 </div>
 
 ---
 
-## 🌟 Pourquoi Choisir Ayi NEDJIMI Consultants ?
-
-<table>
-<tr>
-<td align="center" width="25%">
-<h3>🎯</h3>
-<strong>Expertise Pointue</strong><br/>
-+10 ans d'expérience en cybersécurité offensive et développement IA
-</td>
-<td align="center" width="25%">
-<h3>🔬</h3>
-<strong>Approche Méthodique</strong><br/>
-Audits exhaustifs basés sur les frameworks MITRE ATT&CK et OWASP
-</td>
-<td align="center" width="25%">
-<h3>📊</h3>
-<strong>Livrables Détaillés</strong><br/>
-Rapports techniques complets avec plans de remédiation priorisés
-</td>
-<td align="center" width="25%">
-<h3>🤝</h3>
-<strong>Accompagnement</strong><br/>
-Support continu et formation des équipes internes
-</td>
-</tr>
-</table>
-
----
-
-## 📜 Certifications & Reconnaissances
-
-```text
-✅ Certifications Cybersécurité (à compléter selon vos certifications)
-✅ Spécialiste Microsoft 365 & Azure
-✅ Expert Kubernetes Security
-✅ +100 Articles Techniques Publiés
-✅ Contributeur Open Source
-```
-
----
-
-## 🎓 Formations Disponibles
-
-Formations sur-mesure pour vos équipes techniques :
-
-- 🔴 **Sécurité Active Directory** - Détection et exploitation de vulnérabilités
-- ☁️ **Sécurité Cloud AWS/Azure** - Best practices et hardening
-- 🐳 **Sécurité Kubernetes** - Configuration sécurisée de clusters
-- 🤖 **Développement RAG** - Créer des systèmes IA performants
-- 🔬 **Forensics Windows** - Investigation d'incidents
-
-➡️ **[Découvrir toutes les formations](https://www.ayinedjimi-consultants.fr/formations.html)**
-
----
-
-## 🔖 Projets Open Source
-
-> 🚧 *Section en construction - Projets à venir*
->
-> Suivez ce profil GitHub pour être notifié des nouveaux projets open source en cybersécurité et IA !
-
----
-
-## 📌 Points Forts
-
-- ✅ **Réactivité** : Audits réalisés sous 2-4 semaines selon périmètre
-- ✅ **Confidentialité** : NDA systématique et protection totale des données
-- ✅ **Flexibilité** : Interventions sur site ou distantes
-- ✅ **Support** : Assistance post-audit pour implémentation des recommandations
-- ✅ **Veille** : Publication régulière d'articles techniques et actualités cyber
-
----
-
 <div align="center">
 
-## 🚀 Prêt à Renforcer Votre Sécurité ?
+![Profile Views](https://komarev.com/ghpvc/?username=ayinedjimi&color=1a1b27&style=for-the-badge&label=PROFILE+VIEWS)
 
-### 📞 Contactez-moi dès aujourd'hui pour une évaluation gratuite de vos besoins
+**© 2026 Ayi NEDJIMI — All rights reserved**
 
-[![Visiter le Site](https://img.shields.io/badge/🌐_Visiter_le_Site-ayinedjimi--consultants.fr-red?style=for-the-badge&logoColor=white)](https://www.ayinedjimi-consultants.fr)
-
----
-
-### ⭐ *Si vous trouvez mes articles utiles, n'hésitez pas à laisser une étoile sur mes projets !*
-
-![Profile Views](https://komarev.com/ghpvc/?username=AyiNEDJIMI&color=red&style=flat-square&label=Visiteurs+du+Profil)
-
----
-
-**© 2025 Ayi NEDJIMI Consultants** | Cybersécurité & Intelligence Artificielle
-
-*Fait avec ❤️ et expertise technique*
+*Building security tools by day. Training models by night.*
 
 </div>
-
-
-## 🚀 Installation
-
-```bash
-# Cloner le repository
-git clone https://github.com/VOTRE_USERNAME/ayinedjimi.git
-cd ayinedjimi
-
-# Suivez les instructions spécifiques au projet
-```
-
-
-## 💻 Utilisation
-
-### Exemple basique
-Consultez la documentation du projet pour des exemples d'utilisation détaillés.
-
-### Lancement
-```bash
-# Commande d'exécution
-# À adapter selon votre projet
-```
-
-
-## 🤝 Contributing
-
-Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) first.
