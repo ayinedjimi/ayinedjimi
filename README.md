@@ -46,9 +46,9 @@ Expert in **offensive and defensive cybersecurity** with deep specialization in 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayinedjimi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ayinedjimi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayinedjimi&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayinedjimi&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayinedjimi&theme=tokyonight&hide_border=true)
 
@@ -187,6 +187,26 @@ Architecture: CUDA C++23 | Lock-Free Queues | Multi-Stream Transfers | vLLM Plug
 ```
 
 ---
+
+
+### ⚡ FlashQuant — Extreme KV Cache Compression
+
+<div align="center">
+
+[![FlashQuant](https://img.shields.io/badge/FlashQuant-KV_Cache_Compression-7B68EE?style=for-the-badge&logo=nvidia&logoColor=white)](https://github.com/ayinedjimi/flashquant)
+
+</div>
+
+**FlashQuant** is a production-grade **C++17/CUDA implementation** of [TurboQuant](https://arxiv.org/abs/2504.19874) (Google Research, 2025) for extreme KV cache compression in LLM inference.
+
+- **7.5x KV cache compression** with less than 2% quality loss
+- **6 native CUDA kernels** — fused compress, FlashAttention-2, Split-K paged decode
+- **12,000+ lines** of C++/CUDA/Python with **264 tests passing**
+- **vLLM backend plugin** — drop-in attention backend (v0.18-0.22)
+
+```
+Architecture: C++17 | CUDA | PyTorch | pybind11 | FlashAttention-2 | Split-K FlashDecoding
+```
 
 ## 🤗 HuggingFace — Models & Datasets
 
